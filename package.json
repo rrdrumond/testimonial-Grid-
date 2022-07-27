@@ -1,0 +1,23 @@
+{
+  "name": "testimonial-grid-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css scss/custom.css --content index.html -o scss/reduce.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrdrumond/testimonial-Grid-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrdrumond/testimonial-Grid-/issues"
+  },
+  "homepage": "https://github.com/rrdrumond/testimonial-Grid-#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
